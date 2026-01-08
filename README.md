@@ -1,2 +1,4 @@
-# image_classifier
+<img width="741" height="829" alt="Screenshot 2026-01-08 at 16 29 41" src="https://github.com/user-attachments/assets/8f0260e0-c551-480e-ba98-de9c7ad456ab" />
+<img width="739" height="829" alt="Screenshot 2026-01-08 at 16 31 06" src="https://github.com/user-attachments/assets/187bb288-6267-4119-be06-0e6fc9b14fac" />
+
 Designed and implemented a ResNet-50 convolutional neural network from first principles using TensorFlow/Keras, manually defining residual (identity and convolutional) blocks to understand the impact of skip connections on training deep networks. Integrated ImageNet pre-trained weights and constructed a complete end-to-end inference pipeline, including image preprocessing, normalization, and prediction decoding. Evaluated the model on real-world images, achieving high-confidence classifications, and gained practical insights into deep residual learning, transfer learning, CNN optimization, and large-scale image recognition systems.
